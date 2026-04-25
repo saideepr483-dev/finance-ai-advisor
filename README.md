@@ -31,40 +31,9 @@ finance-ai-advisor/
 │── requirements.txt
 │── README.md
 
----
-
-## ▶️ How to Run Locally
-
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/finance-ai-advisor.git
-cd finance-ai-advisor
-```
-
-2. Install dependencies:
-
-```
-pip install -r requirements.txt
-```
-
-3. Run the app:
-
-```
-streamlit run app.py
-```
-
-4. Open in browser:
-
-```
-http://localhost:8501
-```
-
----
-
 ## 🌐 Live Demo
 
-🔗 (Add your Streamlit link here after deployment)
+🔗 (https://finance-ai-advisor-nvnyadk2j8elekzbb8qrnv.streamlit.app/)
 
 ---
 
